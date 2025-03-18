@@ -1,7 +1,7 @@
-# Sales Analysis Power BI Report and Dashboard
+# Sales Analysis Power BI Report
 
 ## Overview
-This project involves the creation of a **Sales Analysis Power BI Report and Dashboard** to provide actionable insights into sales performance. The report consolidates data from multiple sources, applies advanced data modeling techniques, and uses DAX calculations to generate key metrics and visualizations. The final deliverable includes an interactive Power-BI Report and dashboard for easy access and sharing.
+This project involves the creation of a **Sales Analysis Power BI Report** to provide actionable insights into sales performance. The report consolidates data from multiple sources, applies advanced data modeling techniques, and uses DAX calculations to generate key metrics and visualizations. The final deliverable includes an interactive Power-BI Report for easy access and sharing.
 
 ## Preview
 ### Power-BI Sales-Report ScreenShot
@@ -11,7 +11,7 @@ This project involves the creation of a **Sales Analysis Power BI Report and Das
 - **Data Integration**: Combines data from multiple sources, including Excel, CSV, and databases.
 - **Data Modeling**: Establishes relationships between tables and creates a robust data model.
 - **DAX Calculations**: Implements advanced measures for revenue, cost, profit, and growth analysis.
-- **Interactive Dashboard**: Provides a one-page dashboard with visuals for sales insights.
+- **Interactive Report**: Provides a one-page Report with visuals for sales insights.
 - **Scalable Mechanism**: Automatically handles new or missing sales data files without errors.
 - **Time-Based Analysis**: Includes Qtr-on-Qtr growth, Month-on-Month growth, and average sales per day.
 
@@ -60,7 +60,7 @@ The project uses the following data sources:
 1. **Download the `.pbix` File**:
    - Clone this repository and download the Power BI report file.
 2. **Open in Power BI Desktop**:
-   - Open the `.pbix` file in Power BI Desktop to explore the report and dashboard.
+   - Open the `.pbix` file in Power BI Desktop to explore the report.
 
 ## Key Insights
 - **Revenue Trends**: Identify sales trends over time and across regions.
@@ -70,5 +70,5 @@ The project uses the following data sources:
 
 ## Tools and Technologies
 - **Power BI Desktop**: For data modeling, DAX calculations, and report creation.
-- **Power BI Service**: For publishing and sharing the report and dashboard.
+- **Power BI Service**: For publishing and sharing the report.
 - **Data Sources**: Excel, CSV, and database files.
