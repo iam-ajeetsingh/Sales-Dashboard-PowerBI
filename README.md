@@ -3,6 +3,10 @@
 ## Overview
 This project involves the creation of a **Sales Analysis Power BI Report and Dashboard** to provide actionable insights into sales performance. The report consolidates data from multiple sources, applies advanced data modeling techniques, and uses DAX calculations to generate key metrics and visualizations. The final deliverable includes an interactive Power-BI Report and dashboard for easy access and sharing.
 
+## Preview
+### Power-BI Sales-Report ScreenShot
+![Sales Report Screenshot](sales_report.png)
+
 ## Features
 - **Data Integration**: Combines data from multiple sources, including Excel, CSV, and databases.
 - **Data Modeling**: Establishes relationships between tables and creates a robust data model.
@@ -57,10 +61,6 @@ The project uses the following data sources:
    - Clone this repository and download the Power BI report file.
 2. **Open in Power BI Desktop**:
    - Open the `.pbix` file in Power BI Desktop to explore the report and dashboard.
-
-## Preview
-### Power-BI Sales-Report ScreenShot
-![Sales Report Screenshot](sales_report.png)
 
 ## Key Insights
 - **Revenue Trends**: Identify sales trends over time and across regions.
